@@ -1,5 +1,7 @@
 ## MLAB Analysis
 
+To Run the notebooks, place all the logs under a 'data' folder.
+
 ### Error Types Analysis
 - [x] What are the common types of errors and what are their distribution between execute and non-execute tasks?
     - Images in Error_type_images folder
