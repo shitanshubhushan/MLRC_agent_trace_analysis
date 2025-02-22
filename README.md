@@ -12,7 +12,7 @@ To Run the notebooks, place all the logs under a 'data' folder.
     - Images in Steps folder, each run has its own image and each task also has an image containing all the runs
 
 ### Per-Step Action Distribution
-- [] What is the frequency of different actions in each step?
+- [ ] What is the frequency of different actions in each step?
 
 ### Error Mode Analysis
 - [ ] What are the common error modes and what is their frequency for different tasks?
